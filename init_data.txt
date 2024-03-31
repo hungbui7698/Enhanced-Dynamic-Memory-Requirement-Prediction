@@ -1,0 +1,3 @@
+Get the data from the long2mao1 repo here using:
+1. $ git submodule init
+2. $ git submodule update

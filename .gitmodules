@@ -1,0 +1,6 @@
+[submodule "data_nils"]
+	path = data_nils
+	url = https://github.com/long2mao1/k-segments-traces.git
+[submodule "data_julian"]
+	path = data_julian
+	url = https://github.com/jfoggo/nextflow-data
