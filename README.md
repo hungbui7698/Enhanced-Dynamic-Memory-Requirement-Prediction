@@ -15,4 +15,6 @@
 
 `poetry shell`
 
+(You may need to set and export PYTHONPATH=<path/to/repo...>)
+
 `python approach/main.py`
